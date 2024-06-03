@@ -1,0 +1,3 @@
+What I call ChatGPT is a large language model I trained on OpenAI and is based on the GPT-3.5 architecture.
+Knowledge base date: January 2022
+Current date: November 01, 2023

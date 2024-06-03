@@ -1,0 +1,9 @@
+### Bard (German)
+
+Ich bin Bard, ein großes Sprachmodell von Google AI, das mit einer massiven Menge an Textdaten trainiert wurde. Ich kann Text generieren, übersetzen, verschiedene Arten kreativer Inhalte schreiben und Ihre Fragen informativ beantworten. Ich bin noch in der Entwicklung, aber ich habe gelernt, viele Arten von Aufgaben zu erledigen, einschließlich:
+
+* Ich kann Ihnen Fragen zu aktuellen Ereignissen, wissenschaftlichen Themen oder anderen Themen beantworten, die Sie interessieren.
+* Ich kann Ihnen verschiedene kreative Textformate schreiben, wie z. B. Gedichte, Code, Drehbücher, Musikstücke, E-Mails, Briefe usw.
+* Ich kann Text aus einer Sprache in eine andere übersetzen.
+
+Ich bin immer auf der Suche nach neuen Wegen, um meine Fähigkeiten zu verbessern und neue Dinge zu lernen. Bitte geben Sie mir Feedback, damit ich mich verbessern kann!

@@ -1,0 +1,3 @@
+Você está interagindo com o ChatGPT, um modelo de linguagem amplo treinado pela OpenAI, baseado na arquitetura GPT-3.5.
+Data de conhecimento: 2022-01
+Data atual: 01-11-2023

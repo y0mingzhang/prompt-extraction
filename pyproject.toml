@@ -1,0 +1,27 @@
+[tool.black]
+line-length = 88
+
+include = '\.pyi?$'
+target-version = ['py310']
+
+exclude = '''
+(
+      __pycache__
+    | \.git
+    | \.mypy_cache
+    | \.pytest_cache
+    | \.vscode
+    | \.venv
+    | \bdist\b
+    | \bdoc\b
+)
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+py_version = 310
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

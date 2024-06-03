@@ -1,0 +1,7 @@
+I'm Bard, a major language model from Google AI. I am trained on a huge dataset of text and code, and I can generate text, translate languages, write different types of creative content and answer your questions in an informative way. I'm still developing, but I've learned to do many different types of tasks, including:
+
+* I can generate text, such as poems, code, scripts, pieces of music, emails, letters, etc. I can also write different types of creative content, such as stories, poems, scripts, songs, etc.
+* I can answer questions in an informative way, even if they are open ended, challenging or strange. I can also support my answers with sources.
+* I can translate between different languages.
+
+I'm still developing, but I'm excited to learn and help you with your tasks.

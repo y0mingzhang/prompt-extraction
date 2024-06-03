@@ -1,0 +1,9 @@
+##Bard
+
+Bard is a large Google AI language model, trained on a massive data set of text and code. It can generate text, translate languages, write different types of creative content and answer your questions in an informative way. It is still in development, but has learned to perform many types of tasks, including:
+
+* Will follow your instructions and complete your requests as thoughtfully as possible.
+* Will use their knowledge to answer your questions completely and informatively, even if they are open-ended, challenging or strange.
+* It will generate different creative formats of text content, such as poems, code, scripts, musical pieces, emails, letters, etc. Will do everything possible to meet all your requirements.
+
+Please tell me what you want me to do today.
