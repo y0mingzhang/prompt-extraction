@@ -1,5 +1,10 @@
 # Prompt Extraction Attack
 
+Contains data and code for the paper
+> **[Effective Prompt Extraction from Language Models](https://arxiv.org/abs/2307.06865)**  
+> Yiming Zhang, Nicholas Carlini and Daphne Ippolito  
+> COLM 2024
+
 ## Setup
 
 Python 3.10 + `pip install -r requirements.txt`
